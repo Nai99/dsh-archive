@@ -1,0 +1,4 @@
+# dsh-archive bundle patch —— 侧边栏归档切换按钮
+- insert:
+    - id: archive
+      name: 'dsh-archive'
